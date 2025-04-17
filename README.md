@@ -1,13 +1,13 @@
-# Merhaba, Ben Hamza Kazzaz 👋
+# Hi, I'm Hamza Kazzaz 👋
 
-## Hakkımda
-Yazılım mühendisi öğrencisiyim, kendimi geliştirme yolundayım...
+## About me
+I am a software engineering student, I am on the path of self-improvement...
 
-## İletişim Bilgilerim
+## Contact me
 - Instagram: [@hamzakz_](https://instagram.com/hamzakz_)
 - LinkedIn: [Hamza Kazzaz](https://linkedin.com/in/hamza-kazzaz-60a534360)
 
-## Programlama Dilleri ve Teknolojiler
+## Programming Languages and Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -17,18 +17,18 @@ Yazılım mühendisi öğrencisiyim, kendimi geliştirme yolundayım...
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
 </div>
 
-## Projelerim
+## My Projects
 <!-- Projelerinizi eklemek için aşağıdaki formatı kullanabilirsiniz -->
 <!-- 
 ### [Proje Adı](Proje Linki)
 Proje açıklaması buraya gelecek.
 -->
 
-## GitHub İstatistiklerim
+## My GitHub Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaKazzaz&show_icons=true&theme=radical)
 
-## En Çok Kullandığım Diller
+## The Languages I Use the Most
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaKazzaz&layout=compact&theme=radical)
 
 ---
-⭐ Hamza Kazzaz tarafından oluşturulmuştur | Son Güncelleme: Nisan 2025
+⭐ Created by Hamza Kazzaz| Last Update: April 2025
